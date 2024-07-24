@@ -56,7 +56,7 @@
   
   -> Logistic Regression with LDA: 97.18%
   
-  -KNN with LDA: 96.18%
+  -> KNN with LDA: 96.18%
   
   -> Logistic Regression with GA: 98.24%
   
