@@ -1,9 +1,11 @@
 # Cancer-Diagnosis-Classifier
 
 +Dataset
+
  The dataset Cancer_Data.csv is used in this project. Make sure the CSV file is placed in the appropriate directory before running the code.
 
 +Features
+
  The project involves the following key features:
 
 -Data preprocessing and splitting into training and testing sets.
@@ -33,6 +35,7 @@
 
 
 +Results
+
   The accuracy of different models and techniques are displayed as follows:
   
   -Logistic Regression: 95.91%
